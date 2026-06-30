@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://example.com
+https://maor-kait-lashalom.zappy5.app
 הצטרפו לאנרגיה התל אביבית עם ציוד קייט סרפינג תל אביב איכותי וחוויות ימיות בלתי נשכחות. גלו את עולם הגלישה האקסטרימית בחוף הים שלנו. התחילו להרגיש את הרוח!
 
 ### ציוד
-https://example.com/gear
+https://maor-kait-lashalom.zappy5.app/gear
 חנות קייט סרפינג בתל אביב עם מיטב המותגים: קייטים, גלשנים ואביזרים שייקחו אתכם רחוק. הצטיידו כמו מקצוענים והפכו כל סשן בים לחוויה עוצמתית ומדויקת.
 
 ### חוויות
-https://example.com/experiences
+https://maor-kait-lashalom.zappy5.app/experiences
 חוויית קייטסרפינג למתחילים ישראל שמחברת אתכם לים ולרוח. שיעורים פרקטיים, צוות מנוסה ואווירה תל אביבית מדהימה. בואו לגלוש איתנו אל מעבר לאופק!
 
 ### אודות
-https://example.com/about
+https://maor-kait-lashalom.zappy5.app/about
 מאור קייט לשלום צמחנו מתוך התשוקה לים ולאנרגיה של חוף תל אביב. אנו מביאים אליכם ידע מעמיק, ציוד קייט סרפינג תל אביב ושירות אישי שיהפוך אתכם לחלק מהמשפחה.
 
 ### צור קשר
-https://example.com/contact
+https://maor-kait-lashalom.zappy5.app/contact
 יש שאלה על ציוד קייט סרפינג תל אביב או רוצים להזמין חוויה? צרו קשר עם הצוות שלנו בחוף תל אביב. אנחנו כאן כדי להפוך את החלום הימי שלכם למציאות מסעירה.
 
 ### תודה - מאור קייט לשלום
-https://example.com/thank-you
+https://maor-kait-lashalom.zappy5.app/thank-you
 מאור קייט לשלום - תודה - מאור קייט לשלום
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://maor-kait-lashalom.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://maor-kait-lashalom.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://maor-kait-lashalom.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://maor-kait-lashalom.zappy5.app/contact
+- Endpoint: https://maor-kait-lashalom.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -82,6 +82,6 @@ Water Sports & Outdoor Recreation
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://maor-kait-lashalom.zappy5.app/sitemap.xml
+- Robots: https://maor-kait-lashalom.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://maor-kait-lashalom.zappy5.app/llms-full.txt
