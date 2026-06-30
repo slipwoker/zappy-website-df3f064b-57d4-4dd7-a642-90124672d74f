@@ -4,6 +4,19 @@
     <title>מאור קייט לשלום</title>
     <link>https://maor-kait-lashalom.zappy5.app</link>
     <description>Product feed for מאור קייט לשלום</description>
-    <lastBuildDate>Tue, 30 Jun 2026 16:45:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 16:47:36 GMT</lastBuildDate>
+    <item>
+      <g:id>fc4fbc72-9aac-4676-9e15-857bedd1ba78</g:id>
+      <g:title>חולצת גלישה</g:title>
+      <g:description>החולצה של עידו המעולה</g:description>
+      <g:link>https://maor-kait-lashalom.zappy5.app/product/chvltst-glyshh-rdkdcz</g:link>
+      <g:image_link>https://maor-kait-lashalom.zappy5.app/assets/image-product-image-1782837986499-xocfvx.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>250.00 ILS</g:price>
+      <g:sale_price>190.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>מאור קייט לשלום</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

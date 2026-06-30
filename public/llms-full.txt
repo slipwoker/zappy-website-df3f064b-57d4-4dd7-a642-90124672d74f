@@ -6340,3 +6340,12 @@ Description: מוצרים - מאור קייט לשלום
 
 ---
 
+## Product Catalog
+
+### חולצת גלישה
+URL: https://maor-kait-lashalom.zappy5.app/product/chvltst-glyshh-rdkdcz
+Price: 190.00 ILS (sale, was 250.00 ILS)
+Availability: In stock
+
+---
+

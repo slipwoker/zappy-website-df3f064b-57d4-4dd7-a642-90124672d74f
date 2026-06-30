@@ -80,7 +80,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### חולצת גלישה
+https://maor-kait-lashalom.zappy5.app/product/chvltst-glyshh-rdkdcz
+- Price: 190.00 ILS (sale, was 250.00 ILS)
+- Availability: In stock
+- Description: החולצה של עידו המעולה
+- Image: https://maor-kait-lashalom.zappy5.app/assets/image-product-image-1782837986499-xocfvx.webp
 
 ---
 

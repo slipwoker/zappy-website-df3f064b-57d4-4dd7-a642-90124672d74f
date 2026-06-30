@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T16:45:36.536Z",
+  "generated_at": "2026-06-30T16:47:36.507Z",
   "base_url": "https://maor-kait-lashalom.zappy5.app",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "fc4fbc72-9aac-4676-9e15-857bedd1ba78",
+      "slug": "chvltst-glyshh-rdkdcz",
+      "name": "חולצת גלישה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "החולצה של עידו המעולה",
+      "sku": null,
+      "brand": null,
+      "price": 190,
+      "base_price": 250,
+      "sale_price": 190,
+      "currency": "ILS",
+      "images": [
+        "https://maor-kait-lashalom.zappy5.app/assets/image-product-image-1782837986499-xocfvx.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://maor-kait-lashalom.zappy5.app/product/chvltst-glyshh-rdkdcz",
+      "categories": [],
+      "updated_at": "2026-06-30T16:47:28.521Z"
+    }
+  ]
 }
