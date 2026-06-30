@@ -7,6 +7,12 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://maor-kait-lashalom.zappy5.app/about</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://maor-kait-lashalom.zappy5.app/gear</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -19,7 +25,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maor-kait-lashalom.zappy5.app/about</loc>
+    <loc>https://maor-kait-lashalom.zappy5.app/thank-you</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -28,12 +34,6 @@
     <loc>https://maor-kait-lashalom.zappy5.app/contact</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://maor-kait-lashalom.zappy5.app/thank-you</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
