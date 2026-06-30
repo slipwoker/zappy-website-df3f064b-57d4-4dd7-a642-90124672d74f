@@ -228,6 +228,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="דברו איתנו והתחילו לגלוש עוד היום — מאור קייט לשלום">
     <meta name="twitter:description" content="יש שאלה על ציוד קייט סרפינג תל אביב או רוצים להזמין חוויה? צרו קשר עם הצוות שלנו בחוף תל אביב. אנחנו כאן כדי להפוך את החלום הימי שלכם למציאות מסעירה.">
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://maor-kait-lashalom.zappy5.app#organization","name":"מאור קייט לשלום","url":"https://maor-kait-lashalom.zappy5.app","description":"A kitesurfing business located on the Tel Aviv beach, selling kitesurfing equipment and experiences to Israeli customers. The brand is rooted in the vibrant, energetic beach culture of Tel Aviv, combining the thrill of extreme water sports with the laid-back Mediterranean coastal vibe. The business targets local Israeli surfers and water sports enthusiasts along the Tel Aviv shoreline."},{"@type":"WebSite","@id":"https://maor-kait-lashalom.zappy5.app#website","url":"https://maor-kait-lashalom.zappy5.app","name":"מאור קייט לשלום","publisher":{"@id":"https://maor-kait-lashalom.zappy5.app#organization"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://maor-kait-lashalom.zappy5.app"},{"@type":"ListItem","position":2,"name":"Contact","item":"https://maor-kait-lashalom.zappy5.app/contact"}]},{"@type":"ContactPage","@id":"https://maor-kait-lashalom.zappy5.app/contact#contactpage","url":"https://maor-kait-lashalom.zappy5.app/contact","name":"דברו איתנו והתחילו לגלוש עוד היום — מאור קייט לשלום","mainEntity":{"@id":"https://maor-kait-lashalom.zappy5.app#organization"},"potentialAction":{"@type":"CommunicateAction","target":{"@type":"EntryPoint","urlTemplate":"https://maor-kait-lashalom.zappy5.app/api/email/contact-form","actionPlatform":["http/method=POST"],"contentType":"application/json"},"instrument":[{"@type":"PropertyValue","name":"name","propertyID":"text","valueRequired":false,"description":"השם שלך"},{"@type":"PropertyValue","name":"email","propertyID":"email","valueRequired":false,"description":"your@email.com"},{"@type":"PropertyValue","name":"phone","propertyID":"tel","valueRequired":false,"description":"050-0000000"},{"@type":"PropertyValue","name":"message","propertyID":"textarea","valueRequired":false,"description":"ספרו לנו איך נוכל לעזור – ציוד, שיעורים, או המלצה על גלשן"},{"@type":"PropertyValue","name":"privacy_consent","propertyID":"checkbox","valueRequired":false}]}}]}</script>
     <meta property="og:type" content="website">
   <meta property="og:locale" content="he_IL">
   
@@ -330,10 +331,9 @@
       @media (max-width: 768px) {
         #mic-access-tool-general-button, .mic-access-tool-general-button,
         #mic-init-access-tool .mic-access-tool-general-button, #mic-init-access-tool #mic-access-tool-general-button,
-        ._access-icon { display: flex !important; visibility: visible !important; opacity: 1 !important; pointer-events: auto !important; }
-        #mic-access-tool-box.opened-mic-access-tool, .mic-access-tool-box.opened-mic-access-tool,
-        #mic-init-access-tool #mic-access-tool-box.opened-mic-access-tool {
-          visibility: visible !important; opacity: 1 !important; pointer-events: auto !important;
+        ._access-icon, #mic-access-tool-box, .mic-access-tool-box,
+        #mic-init-access-tool #mic-access-tool-box, div[id*="mic-access-tool-box"], ._access-menu {
+          display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important;
         }
       }
       @media (min-width: 769px) {
