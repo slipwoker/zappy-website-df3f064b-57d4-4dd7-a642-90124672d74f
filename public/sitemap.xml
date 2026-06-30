@@ -37,6 +37,54 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://maor-kait-lashalom.zappy5.app/products</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://maor-kait-lashalom.zappy5.app/cart</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://maor-kait-lashalom.zappy5.app/checkout</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://maor-kait-lashalom.zappy5.app/login</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://maor-kait-lashalom.zappy5.app/account</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://maor-kait-lashalom.zappy5.app/order-success</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://maor-kait-lashalom.zappy5.app/product/:slug</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://maor-kait-lashalom.zappy5.app/category/:slug</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://maor-kait-lashalom.zappy5.app/privacy</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>monthly</changefreq>

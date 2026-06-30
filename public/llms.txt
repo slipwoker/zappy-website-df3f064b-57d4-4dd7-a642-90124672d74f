@@ -30,6 +30,38 @@ https://maor-kait-lashalom.zappy5.app/thank-you
 https://maor-kait-lashalom.zappy5.app/contact
 יש שאלה על ציוד קייט סרפינג תל אביב או רוצים להזמין חוויה? צרו קשר עם הצוות שלנו בחוף תל אביב. אנחנו כאן כדי להפוך את החלום הימי שלכם למציאות מסעירה.
 
+### Products
+https://maor-kait-lashalom.zappy5.app/products
+המוצרים שלנו - מאור קייט לשלום
+
+### Cart
+https://maor-kait-lashalom.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://maor-kait-lashalom.zappy5.app/checkout
+תשלום
+
+### Login
+https://maor-kait-lashalom.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://maor-kait-lashalom.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://maor-kait-lashalom.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://maor-kait-lashalom.zappy5.app/product/:slug
+פרטי המוצר - מאור קייט לשלום
+
+### Category
+https://maor-kait-lashalom.zappy5.app/category/:slug
+מוצרים - מאור קייט לשלום
+
 ## Legal & Policy
 
 ### Privacy Policy
@@ -46,21 +78,9 @@ Information about WCAG compliance and accessibility features.
 
 ---
 
-## How to Contact Us
+## Products
 
-- (No contact details configured yet.)
-
-### Contact form
-- URL: https://maor-kait-lashalom.zappy5.app/contact
-- Endpoint: https://maor-kait-lashalom.zappy5.app/api/email/contact-form
-- Method: POST
-- Content-Type: application/json
-- Fields:
-  - `name` (text)
-  - `email` (email)
-  - `phone` (tel)
-  - `message` (textarea)
-  - `privacy_consent` (checkbox)
+_No products are currently configured._
 
 ---
 
@@ -85,3 +105,5 @@ Water Sports & Outdoor Recreation
 - Sitemap (XML): https://maor-kait-lashalom.zappy5.app/sitemap.xml
 - Robots: https://maor-kait-lashalom.zappy5.app/robots.txt
 - Flattened page text (for LLMs): https://maor-kait-lashalom.zappy5.app/llms-full.txt
+- Products (JSON): https://maor-kait-lashalom.zappy5.app/products.json
+- Products (Google Merchant RSS): https://maor-kait-lashalom.zappy5.app/product-feed.xml
